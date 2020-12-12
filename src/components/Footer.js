@@ -3,7 +3,7 @@ import React from 'react'
 function Footer() {
     return (
         <div className="footer-grid">
-            <img src ='images/logo.svg' className = "logo"  />
+            <img src ='images/logo.svg' className = "logo" alt="" />
             <div className="footer-link">
                 <ul>
                     <li>Features</li>
@@ -32,7 +32,7 @@ function Footer() {
             <div className="footer-link">
                 <ul>
                     <li>Social Media</li>
-                    <li><i><img src ='images/icon-facebook.svg' /></i><i><img src ='images/icon-instagram.svg' /></i><i><img src ='images/icon-pinterest.svg' /></i><i><img src ='images/icon-twitter.svg' /></i></li>
+                    <li><i><img src ='images/icon-facebook.svg' alt="" /></i><i><img src ='images/icon-instagram.svg' alt="" /></i><i><img src ='images/icon-pinterest.svg' alt="" /></i><i><img src ='images/icon-twitter.svg' alt="" /></i></li>
                 </ul>
             </div>
             
